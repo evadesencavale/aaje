@@ -28,31 +28,32 @@
         background-color: #ddd;
       }
       
-      .hidden {
-        height: 0;
-        overflow: hidden;
-        transition: height 0.3s ease-in-out;
-      }
+.hidden {
+  height: 0;
+  overflow: hidden;
+  transition: height 0.3s ease-in-out;
+}
 
-      .comments-row.visible {
-        height: auto;
-        transition: height 0.3s ease-in-out;
-      }
+.comments-row.visible {
+  height: auto;
+  transition: height 0.3s ease-in-out;
+}
 
-      @keyframes rollDown {
-        0% {
-          transform: translateY(-100%);
-          opacity: 0;
-        }
-        100% {
-          transform: translateY(0);
-          opacity: 1;
-        }
-      }
+@keyframes rollDown {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
 
-      .roll-down-animation {
-        animation: rollDown 0.3s ease-in-out;
-      }
+.roll-down-animation {
+  animation: rollDown 0.3s ease-in-out;
+}
+
     </style>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -65,7 +66,14 @@
     </script>
 
 <script>
- document.addEventListener('click', function(event) {
+  document.addEventListener('DOMContentLoaded', function() {
+    var commentsRows = document.getElementsByClassName('comments-row');
+    for (var i = 0; i < commentsRows.length; i++) {
+      commentsRows[i].classList.add('hidden');
+    }
+  });
+
+  document.addEventListener('click', function(event) {
     if (event.target.classList.contains('toggle-comments-btn')) {
       var button = event.target;
       var row = button.closest('.row');
@@ -75,8 +83,10 @@
 
       // Add the roll-down animation class when comments become visible
       if (commentsRow.classList.contains('visible')) {
+        commentsRow.style.height = 'auto'; // Set height to auto to ensure content is fully visible
         commentsRow.classList.add('roll-down-animation');
       } else {
+        commentsRow.style.height = ''; // Reset height to allow transition to take effect
         commentsRow.addEventListener('transitionend', function() {
           commentsRow.classList.remove('roll-down-animation');
         }, { once: true });
@@ -84,6 +94,7 @@
     }
   });
 </script>
+
 
 
     

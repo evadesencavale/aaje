@@ -27,6 +27,10 @@
       th:hover {
         background-color: #ddd;
       }
+      
+      .hidden {
+        display: none;
+      }
     </style>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -36,6 +40,16 @@
     $(document).ready(function() {
       $(".myTable").tablesorter();
     });
+    </script>
+
+    <script>
+      var rows = document.getElementsByClassName('row');
+      for (var i = 0; i < rows.length; i++) {
+        rows[i].addEventListener('click', function() {
+          var commentsRow = this.nextElementSibling;
+          commentsRow.classList.toggle('hidden');
+        });
+      }
     </script>
     
   </head>
@@ -55,12 +69,34 @@
         </thead>
         <tbody>
           {% for post in site.data.aaje_posts %}
-              <tr>
+              <tr class="row">
                 <td>{{ post.Author }}</td>
                 <td>{{ post.PostDate }}</td>
                 <td>{{ post.PostText }}</td>
                 <td></td>
               </tr>
+              <tr class="comments-row hidden">
+                <td colspan="4">
+                  <table class="myTable">
+                    <thead>
+                      <tr>
+                        <th class="header">Comment Author</th>
+                        <th class="header">Comment Date</th>
+                        <th class="header">Comment Text</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for comment in post.Comments %}
+                      <tr>
+                        <td>{{ comment.Author }}</td>
+                        <td>{{ comment.CommentDate }}</td>
+                        <td>{{ comment.CommentText }}</td>
+                      </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </td>
+              </tr>          
           {% endfor %}
         </tbody>
       </table>

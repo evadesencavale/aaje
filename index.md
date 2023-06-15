@@ -42,16 +42,17 @@
     });
     </script>
 
-    <script>
-      var toggleButtons = document.getElementsByClassName('toggle-comments-btn');
-      for (var i = 0; i < toggleButtons.length; i++) {
-        toggleButtons[i].addEventListener('click', function() {
-          var row = this.parentNode.parentNode;
-          var commentsRow = row.nextElementSibling;
-          commentsRow.classList.toggle('hidden');
-        });
-      }
-    </script>
+<script>
+  var toggleButtons = document.getElementsByClassName('toggle-comments-btn');
+  for (var i = 0; i < toggleButtons.length; i++) {
+    toggleButtons[i].addEventListener('click', function() {
+      var row = this.closest('.row');
+      var commentsRow = row.nextElementSibling;
+      commentsRow.classList.toggle('hidden');
+    });
+  }
+</script>
+
 
     
   </head>

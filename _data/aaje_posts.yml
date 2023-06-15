@@ -1,22 +1,1024 @@
-- postid: 12345
-  author: "Biggie Brlol"
-  date: 2023-06-15
-  text: "haha lolz"
-  comments:
-    - author: "Verge G"
-      date: 2023-06-16
-      text: "Comment text 1"
-    - author: "Verge G 2"
-      date: 2023-06-26
-      text: "Comment text 2"      
-- postid: 678910
-  author: "Fatz Count"
-  date: 2023-02-15
-  text: "Youdabest"
-  comments:
-    - author: "Paupaule"
-      date: 2023-05-16
-      text: "Comment text 1"
-    - author: "Verge G 2"
-      date: 2023-05-26
-      text: "Comment text 2"       
+- PostId: 3528361050713101
+  Author: Chloé Fournier Lépine
+  PostDate: 13 juin, 00:03
+  PostText: Dans une éventualité où je voudrais aller à Niagara Falls qu’elles sont les salles que vous proposez? (Si même il y en a) sinon des arrêts qui sont un must selon vous along the way?
+  Comments:
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-13 12:19:08
+    CommentText: >
+      Je te partage mes classements après quelques visites à Toronto en passant par Niagara et Buffalo.
+
+      La compagnie Niagara Escapement ont aussi un nouveau jeu depuis et je suis certain qu'il serait fun a jouer.
+  - Author: Chloé Fournier Lépine
+    CommentDate: 2023-06-13 12:19:52
+    CommentText: >
+      Patrick Pilon
+
+      wow merci pour cette liste bien exhaustive!
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-14 12:23:08
+    CommentText: >
+      Chloé Fournier Lépine Si tu veux quelque chose de fin et très actif aussi à Scarborough ou Hamilton, il y a Activate qui est toujours intéressant. Il y a des vidéos sur leur site qui montrent le concept
+  - Author: Thierry Lacombe
+    CommentDate: 2023-06-13 12:23:41
+    CommentText: >+
+      Max Fillion nous avait recommandé Escape City Buffalo à 30 minutes de l'autre côté de la frontière et ça valait le détour.
+
+- PostId: 3528012957414577
+  Author: Joey Perron
+  PostDate: 12 juin, 15:49
+  PostText: >
+    Bonjour tout le monde !!!
+
+    Nous allons sûrement chez Escaparium Sherbrooke (Centre-ville) mais nous avons seulement le temps de faire 2 jeux.  Nous allons assurément faire « le carnaval oublié » puisqu’on s’est fait dire qu’il était vraiment cool! Entre « la légende des trois dragons » et « la malediction du crâne de Jade » lequel devrions-nous faire selon-vous ? 
+
+    Merciii 
+  Comments:
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-13 12:43:38
+    CommentText: >
+      Modérateur
+
+      J'ai préféré La Légende des Trois Dragons, c'est un excellent jeu, plusieurs belles énigmes et bons décors! La Crane de Jade est un peu plus facile, mais aussi très beau.
+
+      Bon choix pour Le Carnaval Oublié
+  - Author: Étienne Desbiens
+    CommentDate: 2023-06-13 12:43:46
+    CommentText: >
+      Guillaume Lamontagne Je seconde! Les trois dragons est un jeu magnifique!
+
+      J'ai préféré le Crâne de Jade au Carnaval, mais ça reste deux bons jeux!
+  - Author: Véronique Raymond
+    CommentDate: 2023-06-13 12:43:53
+    CommentText: >
+      Dure choix !! Personnellement, si je devais choisir entre les deux ça serait légende des trois dragons !!
+  - Author: Mélany Beauregard
+    CommentDate: 2023-06-13 12:44:00
+    CommentText: >
+      Bonne chance dans votre réflexion! Nous n’avons pas réussi à choisir et ferons donc le triplé ce dimanche
+  - Author: Chloé Fournier Lépine
+    CommentDate: 2023-06-13 12:44:05
+    CommentText: >
+      Mélany nous avions pris la légende des trois dragon, mais finalement comme il n’y avait pas d’autre clients nous avons pu faire le crâne de jade aussi! Hahah
+  - Author: Mélany Beauregard
+    CommentDate: 2023-06-13 12:44:08
+    CommentText: >
+      Chloé Fournier Lépine super ça ! J’ai très hâte d’y aller!
+  - Author: Yanick Audet
+    CommentDate: 2023-06-13 12:44:11
+    CommentText: >
+      Définitivement la légende des 3 dragons. Le Crane de Jade est un bon jeu, mais La Légende des 3 dragons est nettement plus intéressant selon moi.
+  - Author: Jen Mailloux
+    CommentDate: 2023-06-13 12:44:16
+    CommentText: >
+      Yanick Audet 100% agrée lol Joey Perron
+  - Author: Chloé Fournier Lépine
+    CommentDate: 2023-06-13 12:44:19
+    CommentText: >
+      Jen Mailloux on a fait les 3 finalement lol
+  - Author: Barbara-Anne Labrèche
+    CommentDate: 2023-06-13 12:44:22
+    CommentText: >
+      Personnellement, c'est le carnaval oublié que je ne ferais pas, même si on l'a aussi apprécié.
+  - Author: Stéphanie Ducharme
+    CommentDate: 2023-06-13 12:44:25
+    CommentText: >
+      J'abonde dans le même sens que Barbara-Anne Labrèche. Bien que j'aie apprécié le Carnaval oublié, j'ai préféré la Malédiction du crâne de jade et la Légende des trois dragons. Par ailleurs, la Légende des trois dragons est possiblement un meilleur choix si vous êtes plus de deux joueurs... Dans tous les cas, ce sont d'excellents jeux!
+  - Author: Julien Perron
+    CommentDate: 2023-06-13 12:44:37
+    CommentText: >
+      La légende des 3 dragons est selon moi le meilleur scénario disponible en Estrie, donc le choix est simple !
+  - Author: Josh Sheffield
+    CommentDate: 2023-06-13 12:44:40
+    CommentText: >
+      All 3 are good. Between those two I'd do 3 Dragons. As others have said though, I'd put both just over Carnival.
+
+      If you aren't a hater of mechanical locks and more simple sets, we very much enjoyed Chernobyl at the other Escaparium location as well!
+  - Author: Lisa Marie Provencher
+    CommentDate: 2023-06-13 12:44:42
+    CommentText: >
+      La légende des 3 dragons sans hésitation.
+  - Author: Delphine Bourdon
+    CommentDate: 2023-06-14 12:44:43
+    CommentText: >
+      On fait les 3 dragons et la malédiction du Crâne le 27 juin. Très hâte !
+- PostId: 3487817988100741
+  Author: Myriam Lavoie
+  PostDate: 12 juin, 07:30
+  PostText: >
+    **** Lundis-nous à quoi tu as joué! ****
+
+    Parlez-nous des jeux d'évasion physique, en ligne, virtuels, ou sur table que vous avez joués la semaine passée!
+  Comments:
+  - Author: Steven Keller
+    CommentDate: 2023-06-12 13:34:35
+    CommentText: >
+      Molly’s Game, down the hatch, Netherlands The dome, mama bazooka, Netherlands
+
+      The movie experience, push escape(1-2)
+
+      Hans revenge, De gouden kooi, Belgium(1-2)
+
+      Le prince, escaping Belgium, Belgium
+
+      Tokyo lab, escape rush, Belgium
+
+      Room 237, kamer escape room, Netherlands Cyber city, escape Barcelona, Spain The brewery, enigmik, Barcelona
+
+      Toy factory, escape room antwerp, Belgium
+
+      Lost& found, kamer escape room, Netherlands
+
+      Akasha tomb hunter, escape Barcelona, Spain
+
+      The end, dark park, Netherlands
+
+      Soup du jour, rock city escape, Netherlands
+
+      St rumoldus, De gouden kooi, Belgium
+
+      The illusion, epic escape, Netherlands
+
+      Catacombs, logic locks, Amsterdam
+
+      Stay in the dark, dark park, Netherlands Chernobyl, the start, Belgium
+
+      Corps inc, escape room junkies, Netherlands
+
+      Water of life, emmelocked, Netherlands
+
+      Inferno, inferno, Netherlands
+
+      Demise of gricers, entered, Belgium
+
+      Cathedral oublier, Escaparium
+
+      Projet Reset, immersia
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-12 13:34:42
+    CommentText: >
+      Steven Keller un petit mardi ça
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-12 13:34:45
+    CommentText: >
+      (Pour pas dupliquer ma question, je tag Shawn Mercier ici)
+
+      Je suis curieux de Han's Revenge, c'était comment? J'avais vraiment aimé St-Romuldus et leur nouvelle salle était pas prête encore quand on est passé. Est-ce qu'ils ont réussi à pousser ça au prochain niveau?
+  - Author: Shawn Mercier
+    CommentDate: 2023-06-12 13:34:48
+    CommentText: >
+      Guillaume Lamontagne oui mieux que St-Romuldus
+  - Author: Steven Keller
+    CommentDate: 2023-06-12 13:34:52
+    CommentText: >
+      Guillaume Lamontagne j’ai beaucoup plus aimé Hans revenge.
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:34:55
+    CommentText: >
+      Guillaume Lamontagne je pense on a moins aimé St Romoldus que les autres en général mais on a vraiment aimé Hans. C'est dans le top pour tout le monde.
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-12 13:34:59
+    CommentText: >
+      Va falloir retourner voir ça
+
+      Anyway Kevin Currie, Christine Cormier on a encore un jeu gratuit à faire en Belgique
+  - Author: Kevin Currie
+    CommentDate: 2023-06-12 13:35:03
+    CommentText: >
+      Guillaume Lamontagne Jsuis down!
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:35:06
+    CommentText: >
+      Steven Keller show off
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-12 13:35:09
+    CommentText: >
+      On est allé à Ottawa jouer le dernier de Room Escape Ottawa, Outbreak. C'est un jeu plus petit que leurs deux derniers, un peu moins investi côté énigmes et effets mais qui a quand même quelques moments assez intéressants. Le jeu est dépendant d'un ordi et d'énigmes "digitales" pour environ le tier de l'expérience, ce qui est pas mauvais en tant que tel mais ll faut se mettre dans cette mentalité. Le plus gros point négatif que j'aurais est qu'il y a au moins 4 fois que la résolution d'une énigme était trop classique, on se disait "On va essayer ça pour voir" et c'était la solution.
+
+      Je dirais que pour 2, 3 personnes gros max c'est sympathique si on va à Ottawa pour autre chose mais je me serais pas déplacé 2h juste pour ça.
+  - Author: Shawn Mercier
+    CommentDate: 2023-06-12 13:35:16
+    CommentText: >
+      1. Molly's Game | Down The Hatch | Netherlands
+
+      2. Hans Revange | De Gouden Kooi | Belgium
+
+      3. Le Prince | Escaping Belgium | Belgium
+
+      4. The Movie Experience | The Push | Belgium
+
+      5. The Dome | Mama Bazooka | Netherlands
+
+      6. The Brewery | Enigmik | Spain
+
+      7. CyberCity | Escape Barcelona | Spain
+
+      8. Tokyo Lab | Escape Rush | Belgium
+
+      9. Illusion | Epic Escape | Netherlands
+
+      10. Lost and Found | Kamer 237 | Netherlands
+
+      11. The End | Dark Park | Netherlands
+
+      12. Kamer 237 | Kamer 237 | Netherland
+
+      13. The Toy Factory | Escape Antwerp | Belgium
+
+      14. Soup du Jour | Rock City Escape | Netherland
+
+      15. Catacombs | Logic Locks | Netherlands
+
+      16. Stay in dark | Dark Park | Netherlands
+
+      17. The Toy Factory | Escape Antwerp | Belgium
+
+      18. Saint-Rumoldus | De Gouden Kooi | Belgium
+
+      19. Tomb Hunter | Escape Barcelona | Spain
+
+      20. Chernobyl | The Start | Belgium
+
+      21. Water of Life | Emmelocked | Netherlands
+
+      22. Inferno | Inferno | Netherlands
+
+      23. Corps Inc. | Escape Junkies | Netherlands
+
+      24. Demise of the Gricers | Entered | Belgium (Not an escape room)
+  - Author: Kevin Currie
+    CommentDate: 2023-06-12 13:35:23
+    CommentText: >
+      Shawn Mercier C'est ton stack ranking ca?
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:35:27
+    CommentText: >
+      Kevin Currie essaies pas!
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:35:31
+    CommentText: >
+      Kevin Currie mais sérieux notre stack ranking change à chaque jour.
+  - Author: Kevin Currie
+    CommentDate: 2023-06-12 13:35:35
+    CommentText: >
+      Jonathan Driscoll C'est normal vous êtes encore dans le hype de voyage, ça prends des mois avant d'avoir un vrai ranking haha
+  - Author: Kevin Currie
+    CommentDate: 2023-06-12 13:35:42
+    CommentText: >
+      Jonathan Driscoll M'as te repartir un débat moi là!
+  - Author: Shawn Mercier
+    CommentDate: 2023-06-12 13:35:47
+    CommentText: >
+      Kevin Currie oui mais ca change a chaque jour!!
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:35:51
+    CommentText: >
+      Kevin Currie c'est sur mais ça change déjà à chaque jour après chaque expérience.
+  - Author: Kevin Currie
+    CommentDate: 2023-06-12 13:35:55
+    CommentText: >
+      Shawn Mercier Molly's game s'pa en Belgique. Je comprends pourquoi ton stack ranking est aussi mélangé
+  - Author: Shawn Mercier
+    CommentDate: 2023-06-12 13:35:59
+    CommentText: >
+      Kevin Currie oops hahaha
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-12 13:36:01
+    CommentText: >
+      On est allé (re)faire L'île Perdue de la Reine Vaudou chez Escaparium samedi avec 3 jeunes de 4, 9 et 11 ans. Lorsqu'on l'avait fait il y a quelques années, le système d'indice était un walkie-talkie (à mon souvenir), mais cette fois on a pu jouer avec le nouveau système d'indice thématique et sérieusement ça ajoute tellement à l'expérience! Je pense que c'est une évidence que de communiquer avec un personnage plutôt qu'avec un GM en dehors de l'histoire ajoute à l'immersion. Mais de vivre le avant/après du système d'indice, c'est vraiment marquant comme différence, plus que je l'aurais imaginé. Chapeau à Escaparium pour un des plus solides système de communication qu'on a vu
+
+      (Faut dire que notre GM était incroyable, ce qui aide probablement aussi!)
+
+      Sinon, pour ce qui est des enfants dans cette salle, ça été quand même surprenant. Je pensais qu'on aurait besoin de faire plusieurs énigmes nous-mêmes, mais finalement on avait juste besoin d'expliquer ce qu'il y avait à faire et les jeunes (9,11) pouvaient les faire pas mal tout seuls! Quelques défis où on a agit un peu plus, mais au final ils ont touché à 100% des énigmes
+
+      Ils ont quand même eu un peu peur dans l'ambiance du jeu, mais rien pour les arrêter (avec une petite tape dans le dos
+
+      ), sauf mon 4 ans qui est resté dans mes bras pendant 75 minutes, des fois que les loups viendraient nous manger
+
+      Toujours un superbe jeu, à mettre à votre liste si c'est pas déjà fait
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:36:12
+    CommentText: >
+      Guillaume Lamontagne c'est vraiment cool d'entendre les gens apprécié les changements apportés. Nous essayons d'améliorer tous nos expériences mais surtout que t'as vécu le avant et après! As tu apprécié les autres changements, intro, outro et l'autre affaire à l'intérieur que je peux pas mentionner sans spoiler?
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-12 13:36:21
+    CommentText: >
+      Ouais! Dans mon souvenir l'intro était frette pas mal, là c'était parfait comme mise en situation. J'ai vraiment aimé. Pareil pour la fin qui conclue bien l'histoire!
+
+      L'autre affaire à l'intérieur, j'avoue que je suis pas certain. J'ai une petite idée, mais c'est peut-être aussi quelque chose que j'avais pas eu à toucher la première fois!.
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:36:27
+    CommentText: >
+      Guillaume Lamontagne ah c'est ça, je pense plusieurs pensent c'était déjà la, c'est pour ça je demande, je te MP.
+  - Author: Caroline Lavoie
+    CommentDate: 2023-06-12 13:36:30
+    CommentText: >
+      Le phare polaire, casse-tête d'Exit. Je le conseil pas vraiment... Pourtant je suis pas du genre à pas aimé un jeu, mais là, c'était exagéré par moment.
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-12 13:36:37
+    CommentText: >
+      Haha I guess me too. (L'ordre n'est pas important)
+
+      Molly’s Game, down the hatch, Netherlands The dome, mama bazooka, Netherlands
+
+      The movie experience, push escape(1-2)
+
+      Hans revenge, De gouden kooi, Belgium(1-2)
+
+      Le prince, escaping Belgium, Belgium
+
+      Tokyo lab, escape rush, Belgium
+
+      Room 237, kamer escape room, Netherlands Cyber city, escape Barcelona, Spain The brewery, enigmik, Barcelona
+
+      Toy factory, escape room antwerp, Belgium
+
+      Lost& found, kamer escape room, Netherlands
+
+      Akasha tomb hunter, escape Barcelona, Spain
+
+      The end, dark park, Netherlands
+
+      Soup du jour, rock city escape, Netherlands
+
+      St rumoldus, De gouden kooi, Belgium
+
+      The illusion, epic escape, Netherlands
+
+      Catacombs, logic locks, Amsterdam
+
+      Stay in the dark, dark park, Netherlands Chernobyl, the start, Belgium
+
+      Corps inc, escape room junkies, Netherlands
+
+      Water of life, emmelocked, Netherlands
+
+      Inferno, inferno, Netherlands
+
+      Demise of gricers, entered, Belgium
+  - Author: Marc Raymond
+    CommentDate: 2023-06-12 13:36:56
+    CommentText: >
+      Moi je me suis fait nargué par Shawn Mercier avant qu'il entre dans The Dome... C'est pas mal ça
+  - Author: Shawn Mercier
+    CommentDate: 2023-06-12 13:37:01
+    CommentText: >
+      Marc Raymond
+  - Author: Vaalérie Aalves
+    CommentDate: 2023-06-12 13:37:03
+    CommentText: >
+      Projet R.E.S.E.T. chez Immersia (Boisbriand) On a adoré le concept
+  - Author: Martine Filiatrault
+    CommentDate: 2023-06-12 13:37:07
+    CommentText: >
+      RESET à Immersia boisbriand! Vraiment vraiment hot, un concept incroyable!
+  - Author: Stéphanie Dechamplain
+    CommentDate: 2023-06-12 13:37:11
+    CommentText: >
+      Nous sommes allés faire choco chez Exode à Québec avec les enfants. Nous avons réussi en 50 minutes, les enfants étaient fous de joie!
+  - Author: Sonia Gauvin
+    CommentDate: 2023-06-12 13:38:17
+    CommentText: >
+      Le sentier du maître constructeur chez Enigma-tic :
+
+      À force de parler de jeux d’évasion à mon entourage, j’ai piqué la curiosité d’une amie qui voulait essayer ça. On s’est rejoint chez Enigma-tic vendredi soir. Mon amie avait emmené avec elle une de ses amies. Cette dernière ne savait même pas où elle était, et ce qu’on allait faire. Elle a dit n’avoir jamais entendu parler de jeux d’évasion. Le sentier du maître constructeur était parfait comme premier jeu pour elles. Pour moi c’était mon 25e. C’était divertissant de voir leur émerveillement. Le GM nous a donné un petit 5 minutes additionnels pour terminer et réussir. Les deux initiées ont été épatées. Un de leurs commentaires a été: “wow tout était bien pensé”.
+  - Author: Delphine Savoie
+    CommentDate: 2023-06-12 13:38:23
+    CommentText: >
+      Cinq jeux en une soirée pour nous
+
+      À L’intrigue :
+
+      - La chambre des secrets
+
+      - Le cœur de Davy Jones
+
+      Au déserteur :
+
+      - La salle mystère
+
+      - Le kidnapping
+
+      - L’atelier du père noël
+
+      Un dernier hier chez Immersia :
+
+      - Le cabaret Picadilly
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-12 13:38:28
+    CommentText: >
+      Delphine Savoie juste spécifier que ce n'est pas nécessaire de mentionner ton affiliation si tu ne fais pas la promotion de tes propres salles
+  - Author: Patt Toupin
+    CommentDate: 2023-06-14 13:38:31
+    CommentText: >
+      Petite virée à Toronto
+
+      En ordre d'appréciation
+
+      Volcano Views Aerial Tour
+
+      The Last Resort
+
+      The Descent
+
+      The Testing Ward
+
+      Reactor 4
+
+      The Missing Will
+
+      Crossroad
+
+      Dragon Song
+
+      Fire Fighter Rescue
+
+      Pour ce qui est de Dragon Song, l'expérience a été plutôt mauvaise vu que nous étions avec un autre groupe (jumelage).
+
+      Malheureusement pour nous, nous étions souvent pris avec les énigmes les plus longues et par conséquent nous avons manqué tout près de 50% du jeu, alors c'est difficile de donner un avis juste sur ce jeu, mais personnellement c'est l'expérience que j'ai vécu.
+
+      C'est le jeu pour lequel j'avais le plus d'attentes. Bref, avec l’opportunité de remplir cette salle avec autant de gens ($$). Je me serais attendu à une expérience contemplative de haut niveau pour compenser le fait d'être jumelé avec d'autres gens. Malheureusement cet objectif n'est pas atteint pour moi.
+
+      Volcano a été l'expérience la plus convaincante pour moi avec de beaux décors, des énigmes qui font progresser l'histoire et bien diversifier. Le seul endroit où j'ai vu quelque chose de nouveau donc toujours un plus pour moi. La fin était bizarre, mais bon dans l'ensemble c'est celui qu'il y avait le plus de positif.
+
+      Pour ce qui est des jeux de Readyset Go Adventure. C'est trois jeux très similaires qui sont très bien balancés au niveau de la diversité des énigmes, mais comme j'avais déjà été faire No Way Out à l'époque, il y avait plusieurs énigmes récupérées et je trouve que ça revient un peu au même d'une mission à l'autre.
+
+      Pour ce qui est de EGC, j'ai bien apprécié The Last Resort et pour ce qui est de The Missing Will et CrossRoad c'était de bons jeux, mais sans être extraordinaire.
+
+      Finalement Firefighter Rescue était sûrement un excellent jeu à l'époque, mais qui a très mal vieilli . Bref, je me croyais en 2017 et je n’avais vraiment pas le goût de faire toutes ces énigmes classiques et après avoir fait cette salle nous avons fait Volcano qui est à un autre niveau et c'est peut-être pour ça que je l'ai autant apprécié alors que je n'avais plus aucune attente.
+- PostId: 3526319697583903
+  Author: Patrick Pilon
+  PostDate: 10 juin, 10:02
+  PostText: >
+    SamedIA
+
+    L'intelligence artificielle midjourney est bien pratique pour générer des images en tous genres. J'ai pris quelques crédits sur cette plate-forme et je me suis dis que ce serait drôle de donner des phrases clés en lien avec les jeux d'évasion.
+
+    Dans une série de publications je vais partager les résultats pour les titres de certains jeux d'évasion ou bien la phrase clé "Jeu d'évasion dont le titre est :"
+
+    Je vais indiquer de quelle salle il s'agit en réponse et je vais faire une modification, le résultat peut être vu en allant dans l'historique. SVP ne pas dire c'est qu'elle salle mais juste partager vos commentaires pour laisser les gens découvrir par eux mêmes.
+  Comments:
+  - Author: Myriam Lavoie
+    CommentDate: 2023-06-10 14:17:01
+    CommentText: >
+      J’adore l’idée!!
+  - Author: Renée Ledoux
+    CommentDate: 2023-06-11 14:17:03
+    CommentText: >
+      La meilleure utilisation de l'AI! Ça fait moins peur comme ça!
+  - Author: Sonia Gauvin
+    CommentDate: 2023-06-13 14:17:06
+    CommentText: >
+      Vraiment cool!!!
+- PostId: 3528856110663595
+  Author: Jenny Thuot
+  PostDate: 13 juin, 14:52
+  PostText: >
+    Bon mardi! 
+
+    Nous serons 12 et nous aimerions faire une salle ou bien deux séparer a Terrebonne, est-ce que vous avez des coups de coeur dans ce coin? 
+     Merci
+  Comments:
+  - Author: Guillaume Lamontagne
+    CommentDate: Supprimer l’aperçu1 j
+    CommentText: >
+      Je ferais 2 équipes de 6, et même peut-être 3 équipes de 4 si vous avez un peu d'expérience. Une équipe de 12, vous risquez de vous marcher sur les pieds!
+
+      À Terrebonne, il y a pas mal juste Déserteur (https://www.deserteurlejeudevasion.ca/nos-salles). J'ai entendu de bonnes choses sur Le Manipulateur et Job de Marde, mais je les ai pas encore faits. Sinon dans l'ordre pour les autres je recommanderais L'Atelier du Père Noël, Possédé, Camping Ginette, Kidnapping, Salle Mystère
+
+      DESERTEURLEJEUDEVASION.CA
+
+      Nos Salles | Déserteur Le Jeu D'évasion | Terrebonne
+
+      Nos Salles | Déserteur Le Jeu D'évasion | Terrebonne
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-14 13:43:46
+    CommentText: >
+      Guillaume Lamontagne Manipulateur et Job de marde définitivement pas plus que 4 par salles
+  - Author: Sylvain Mailhiot
+    CommentDate: 2023-06-14 13:43:52
+    CommentText: >
+      Évasion 60 minutes à Mascouche
+
+      L'intrigue à Repentigny
+  - Author: Holla Kika
+    CommentDate: 2023-06-14 13:43:56
+    CommentText: >
+      Il y a Exit Jeux d'Évasion à Terrebonne!! J'ai bcp aimé Lendemain de veille à Vegas!
+  - Author: Martine Raymond
+    CommentDate: 2023-06-14 13:43:59
+    CommentText: >
+      Je confirme ici aussi lendemain de veille notre trop a terrebonne et ensuite l’atelier du père noël et job de marde du déserteur
+- PostId: 3525589810990225
+  Author: Karine Rheault
+  PostDate: 9 juin, 10:20
+  PostText: ''
+  Comments:
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-09 13:58:21
+    CommentText: >
+      Jusqu'à quel point vous êtes prêtes à voyager? Il n'y a pas grand chose pour 2 a trois rivières directement.
+  - Author: Karine Rheault
+    CommentDate: 2023-06-09 13:58:26
+    CommentText: >
+      Patrick Pilon on est des Laurentides et on va passer 2 jours là -bas
+- PostId: 3525239774358562
+  Author: Amélie Jacob
+  PostDate: 8 juin, 23:17
+  PostText: >
+    Nous allons en famille ( enfants 7-10ans) à Montréal / st jean sur richelieu / Brossard. Je cherche un defi intéressant aussi pour les enfants et pas trop effrayant. Le seul qu’on a fait à Montréal c’est la valise sans fond au Vortex et c’était parfait comme type de defi
+  Comments:
+  - Author: Samuel Marcoux
+    CommentDate: 2023-06-09 14:00:52
+    CommentText: >
+      Examen Final à sauve qui peut saint jean sur richelieu
+
+      Je suis game master à sauve qui peut si jamais tu as des questions
+  - Author: Amélie Jacob
+    CommentDate: 2023-06-10 14:00:57
+    CommentText: >
+      Samuel Marcoux , J’ai déjà fait celui de Québec qui a le même nom, est-ce que les énigmes sont différentes?
+  - Author: Amélie Jacob
+    CommentDate: 2023-06-10 14:01:01
+    CommentText: >
+      Samuel Marcoux et même question pour le secret de Dandera! Est-ce qu’il sont semblables à Québec et st jean sur Richelieu?
+  - Author: Amélie Jacob
+    CommentDate: 2023-06-10 14:01:07
+    CommentText: >
+      Samuel Marcoux J’hésite car j’ADORE sauve qui peut Québec! C’est super bien fait, c’est beau et les énigmes variées… mais j’ai fait toutes les salles il y 4 ans et je vais quand même m’en rappeler si c’est pareil …
+  - Author: Marilou St-michel
+    CommentDate: 2023-06-10 14:01:19
+    CommentText: >
+      Amélie Jacob bonjour Amélie! Je suis aussi GM au Sauve Qui Peut à Saint-Jean et oui, nos salles sont très semblables entre les deux succursales. Ce sont les mêmes jeux avec quelques différences. Mais nous avons des jeux à Saint-Jean-sur-Richelieu qu’il n’a pas à Québec
+  - Author: Marilou St-michel
+    CommentDate: 2023-06-10 14:01:24
+    CommentText: >
+      Amélie Jacob si je peux répondre à d’autre question, hésitez pas à m’écrire, ça va me faire plaisir
+  - Author: Amélie Jacob
+    CommentDate: 2023-06-11 14:01:29
+    CommentText: >
+      Marilou St-michel c’est ce que je me disait, dommage
+
+      merci pour les précisions! Donc en famille il me resterait Poseidon?
+  - Author: Marilou St-michel
+    CommentDate: 2023-06-11 14:01:34
+    CommentText: >
+      Amélie Jacob Oui! Ça pourrait être une bonne salle si vous en avez quelque un à votre actif (ce qui est le cas si je comprends bien)!
+  - Author: Amélie Jacob
+    CommentDate: 2023-06-12 14:01:39
+    CommentText: >
+      oui! Mon conjoint a déjà fait toutes les salles de toutes les bannières de Québec…
+  - Author: Jonathan Driscoll
+    CommentDate: 2023-06-09 14:01:45
+    CommentText: >
+      As tu fait le Secret de qq chose chez SQP? C'est pas mal le jeu parfait pour ta famille je pense ainsi que Examen Final. Si tu veux aller un peu plus difficile mais vraiment beau et fantastique la Forêt de Falderon. Vous allez adorer.
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-09 14:01:52
+    CommentText: >
+      Jonathan Driscoll Denderah. Moi aussi je recommanderais pour un jeu qui se fait bien en famille avec un aspect immersif pour des joueurs débutants.
+  - Author: Sophie St-Cyr
+    CommentDate: 2023-06-09 14:01:56
+    CommentText: >
+      Salut! Voici ceux qu’on a fait avec nos garçons de 9 et 12 ans, (on a eu un gros gros coup de cœur chez Sauve qui peut et on a fait quasiment toute leur salle à l’été 2021 et 2022! Donc quand mes gars avaient 7 et 10 ans! Ou 8 et 11 ans!)
+
+      Le premier qu’on a fait c’est Examen Final, on a ADORÉ!!! Et c’était parfait avec la fin des classes!
+
+      Mes garçons en parle encore! Il y a une partie du scénario qu’ils ont fait seuls car mon conjoint et moi on en était incapable! Ça les rends bin fiers encore aujourd’hui de rire de nous!
+
+      Quelques semaine après on est retourné pour faire la colère de Poseidon!
+
+      ça reste dans nos salles préférées pour toute notre famille! Le soucis du détail dans le décor wow!!!
+
+      La même journée on a aussi fait le secret de Denderah (on la trouvé plus facile, mais le décor est magnifique!)
+
+      Et l’an dernier on a fait le Vortex Passé qu’on a pas aimé personne… une plus vieille salle, trop simple et linéaire!
+
+      Et on a eu beaucoup de difficultés dans la Forêt de Falderon… mais ça aussi décor magnifique, pas un coup de cœur, car on a eu trop de difficultés, les enfants étaient plus intéressé à regarder le décor qu’à faire leur tâche… donc on a fait les 4 rôles mon conjoint et moi pis c’était pas facile… je pense qu’ils étaient trop jeune…
+
+      Sinon on a fait Funzy Cous à la Clé de l’énigme à Brossard… mes gars ont aimé la thématique… certains effets spéciaux… mais c’est pas dans nos préférés…
+
+      Si jamais tu veux des recommandations pour la Rive-Nord on en a fait beaucoup plus puisqu’on habite sur la Rive-Nord!
+
+      On doit avoir un 25-30 salles de fait avec les gars…
+  - Author: Amélie Jacob
+    CommentDate: 2023-06-10 14:02:04
+    CommentText: >
+      Sophie St-Cyr merci beaucoup pour toutes les recommandations! C’est vraiment gentil d’avoir pris le temps. Je crois pas aller sur la rive nord cette fois ci, mais je prendrais volontiers tes recommandations pour notre prochain trip à Montreal
+  - Author: Fannie St-Amour
+    CommentDate: 2023-06-09 14:02:10
+    CommentText: >
+      À la clef de l'énigme il y a Funzy Couz qui est sur la thématique de Mario Bros. Beaucoup d'énigmes de couleurs donc p-e plus facile pour les enfants? (
+
+      ) Sinon en effet, l'examen final est cool car plus physique comme scénario, mais pas super facile.
+  - Author: Joe-bine Picard
+    CommentDate: 2023-06-10 14:02:21
+    CommentText: >
+      Je vote pour Examen Final!
+- PostId: 3525049921044214
+  Author: Cel Lu Lite
+  PostDate: 8 juin, 16:34
+  PostText: >
+    Mise en situation : cetais notre première expérience au centre defi-évasion! C’est un des centre les plus populaires et j’avais hâte de l’essayer mais déception pour toute notre team 
+
+    ( ma blonde et les 2 kids ) dommage ! Peut être avions trop mi la barre haute 
+     une multitude de cadenas ( a mon avis trop de cadenas es signe de paresse ou de manque d’imagination ) et game master très intrusif! L’expérience étais somme toute quand même correct ! 
+    Ma question: esce que l’es salles de defi évasion sont tous sur le même principe ou on a juste pas été chanceux et mal choisi notre aventure ?
+  Comments:
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-09 14:03:29
+    CommentText: >
+      J’ai pas fait les dernières salles chez DÉ, mais de ce que j’ai vu ils sont en effet très classique dans leurs jeux. Je crois qu’il y a définitivement un public pour ça, mais comme accro j’ai jamais retrouvé les éléments qu’on retrouve dans les meilleures salles du Québec. J’ai aussi eu plusieurs interactions ordinaires avec les GMs là-bas.
+
+      Vous avez fait quelle salle?
+  - Author: Cel Lu Lite
+    CommentDate: 2023-06-09 14:03:54
+    CommentText: >
+      Guillaume Lamontagne celle du sous marin
+  - Author: Guillaume Lamontagne
+    CommentDate: 2023-06-09 14:04:00
+    CommentText: >
+      Cel Lu Lite ah je ne l’ai pas joué, peut-être qu’une autre personne pourra dire si elle ressemble aux autres salles chez DÉ
+  - Author: Marc-Denis D. Fleury
+    CommentDate: 2023-06-09 14:04:04
+    CommentText: >
+      Guillaume Lamontagne moué pis ma Louisette on aime ben ça les défis de l’évasion pas toué!?
+
+      Marc-Denis
+  - Author: Marc Raymond
+    CommentDate: 2023-06-09 14:04:10
+    CommentText: >
+      Oui, le sous-marin ressemble beaucoup aux précédents jeux de Défi-Évasion en termes de type d'utilisation de cadenas.
+
+      L'atelier de la Terreur, le plus récent de leur jeu, en utilise moins et certaines énigmes, même si à cadenas, sont plutôt créatives (On a bien aimé et n'avons pas trouvé cela paresseux, au contraire.) Le décor est aussi beaucoup plus dense et riche. Ma préféré maintenant chez DÉ.
+
+      Après, ça dépend de l'âge des kids
+
+      Je suis gérant chez Sauve qui peut
+  - Author: Cel Lu Lite
+    CommentDate: 2023-06-09 14:04:17
+    CommentText: >
+      Marc Raymond merci on va peut-être se laisser tenter par un autre éventuellement mais plutôt lorsque l’on ne saura plus ou aller
+
+      Sauve qui peut justement entendu de bon commentaire et c’est dans nos prochain de cette été
+  - Author: Marc Raymond
+    CommentDate: 2023-06-09 14:04:21
+    CommentText: >
+      Cel Lu Lite je te le dis, l'atelier de la terreur est très cool. Ça vaut la peine de lui donner une chance!
+  - Author: Myriam Lavoie
+    CommentDate: 2023-06-09 14:04:25
+    CommentText: >
+      Marc Raymond Bon, tu brag encore de ta nouvelle job?
+  - Author: Marc Raymond
+    CommentDate: 2023-06-09 14:04:37
+    CommentText: >
+      Myriam Lavoie Ben là, je suis les règles
+
+      C'était tellement pas pour faire une plogue.
+  - Author: Myriam Lavoie
+    CommentDate: 2023-06-09 14:04:41
+    CommentText: >
+      Marc Raymond Je sais bin! J’te niaisais
+  - Author: Marc Raymond
+    CommentDate: 2023-06-09 14:04:45
+    CommentText: >
+      Myriam Lavoie
+
+      Tenor
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-09 14:04:50
+    CommentText: >
+      Pour Expédition sous marine j'ai pas tant remarqué le nombre de cadenas puisque j'ai trouvé qu'il y avait une bonne variété au travers des énigmes donc la façon d'ouvrir un compartiment importait peu. Pour ce que qui est du GM intrusif je suis d'accord qu'il avait été un peu trop persistent à notre visite aussi donc probablement la façon normale de déroulement du jeu, ce qui est pas positif.
+
+      Les autres salles sont dans le même genre, mélange cadenas et semi techno mais rien qui réinvente les jeux d'évasion.
+  - Author: Cel Lu Lite
+    CommentDate: 2023-06-09 14:04:57
+    CommentText: >
+      Patrick Pilon en fait Jsuis content de pas avoir commencé notre carrière de escapeur là car elle se serais aussi vite terminer
+
+      il y en a plrs autre excellent en ville
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-09 14:05:01
+    CommentText: >
+      Cel Lu Lite La moyenne de qualité des jeux à Québec est quand même bonne alors dis toi qu'il y a pas mal pire ailleurs.
+  - Author: Cel Lu Lite
+    CommentDate: 2023-06-09 14:05:05
+    CommentText: >
+      Patrick Pilon ouin j’avoue mais depuis peu j’ai découvert se groupe qui nous aides a nous orienter vers se que l’on aime et les commentaires aides à se faire une tête sur l’aventure en question
+  - Author: Jul Mariz-Hernandes
+    CommentDate: 2023-06-09 14:05:12
+    CommentText: >
+      Perso je n'ai fais qu'une salle la bas, pas aimer pour plusieurs raisons!
+  - Author: K-Ann Dpnt
+    CommentDate: 2023-06-09 14:05:15
+    CommentText: >
+      Ne fait pas la microbrasserie
+
+      Le GM te bullie au debut et apres tu le revois jamais plus
+  - Author: Myriam Lavoie
+    CommentDate: 2023-06-09 14:05:19
+    CommentText: >
+      Comme la majorité des proprios sont sur le groupe et lisent les commentaires;
+
+      Joueurs: Avez-vous des suggestions constructives pour que l’expérience des accros soit bonifiée dans cette entreprise (et toutes autres) dans le futur?
+  - Author: Nadyne Poirier
+    CommentDate: 2023-06-09 14:05:28
+    CommentText: >
+      Myriam Lavoie Ne pas tout miser sur les cadenas. Les décors sont souvent très beaux et détaillés mais en terme de jeu, l'expérience n'est souvent que d'ouvrir des cadenas un après l'autre et les scénarios sont très sommaires.
+  - Author: Nadyne Poirier
+    CommentDate: 2023-06-09 14:05:35
+    CommentText: >
+      J'ait fait deux scénarios dernièrement chez Défi-Évasion : La souche et La folle aux chats. Superbes décors mais immersion pas évidente malgré tout. Les GM ne semblent pas vraiment dans leur personnage et le tout n'est qu'une enfilade de cadenas.... Pour un objet à découvrir à La souche, il y avait trois (3!) cadenas! On voit que ce n'est que pour remplir l'heure sans trop de difficulté. Si ça avait été mes premières expériences, j'aurais néanmoins beaucoup apprécié.
+
+      En comparaison avec les salles d'Exode, Eliviascape et Cabinet Mysteriis à Québec, décevant.
+- PostId: 3524786774403862
+  Author: Martine Filiatrault
+  PostDate: 8 juin, 08:31
+  PostText: >
+    Projet RESET - Immersia Boisbriand
+
+    À ne pas manquer!!!
+
+    Couple avec une vingtaine de salles, on a tjrs réussi sauf 1-2 fois à nos débuts.
+
+    Avec bébé dans le porte-bébé!
+
+    Réussite avec 8 minutes restantes et 2 indices
+
+    On a aimé :
+
+    - WOW!! Quel jeu incroyable!!!
+
+    - Personnage en jeu pas trop invasif
+
+    - Les choix dans le jeu (dur à expliquer sans rien dévoiler!)
+
+    - Les mécaniques technologiques différentes, le concept!
+
+    On a moins aimé :
+
+    - Pas grand chose! Il est très linéaire donc à ne pas faire plus que 2-3 personnes!
+
+    - Moins de liberté pour les indices mais ça ne nous a pas bloqués 
+
+    Quel sera notre prochain?
+  Comments:
+  - Author: Karine Boivin
+    CommentDate: 2023-06-08 14:08:35
+    CommentText: >
+      Sébastien Duchesne
+  - Author: Martine Raymond
+    CommentDate: 2023-06-08 14:08:59
+    CommentText: >
+      Marc-André Ferland Paméla Lafontaine Marc-Olivier Laporte les prochains on ajoute Jacob et Justin!!
+  - Author: Julie Bouchard
+    CommentDate: 2023-06-08 14:09:01
+    CommentText: >
+      On a aussi beaucoup aimé "ce qu'on ne peut pas dévoiler" !!!!
+- PostId: 3524512351097971
+  Author: Guylaine Paul
+  PostDate: 7 juin, 23:08
+  PostText: >
+    On va a Toronto la fin de semaine prochaine pour un spectacle et j’ai besoin de suggestions de salles qui ne sont PAS les tops qu’on nomme toujours (EGC, Imaginarium, Crypto, Daydream) parce qu’on les a déjà faites. En fait, j’aimerais des salles que vous avez aimé soit à cause de l’originalité et/ou des puzzles, pas nécessairement des décors ! Merci !
+  Comments:
+  - Author: Jul Mariz-Hernandes
+    CommentDate: 2023-06-08 14:09:27
+    CommentText: >
+      Escape from the 6th?
+  - Author: Guylaine Paul
+    CommentDate: 2023-06-08 14:09:29
+    CommentText: >
+      Jul Mariz-Hernandes je l’ai pas nommé, mais on l’a fait en 2018!
+  - Author: Jul Mariz-Hernandes
+    CommentDate: 2023-06-08 14:09:31
+    CommentText: >
+      On a un peu un partie prit mais on a adoré the Thomson chez next level, une réplique parfaite de la maison des Simpsons!
+  - Author: Guylaine Paul
+    CommentDate: 2023-06-08 14:09:34
+    CommentText: >
+      Jul Mariz-Hernandes Oui! J’en avais entendu parlé, mais j’avais oublié le nom! À date jsuis pas mal excitée aussi parce que y’a une salle de RuPaul’s drag race aussi chez Trivia Escape!
+  - Author: Guylaine Paul
+    CommentDate: 2023-06-08 14:09:36
+    CommentText: >
+      Jul Mariz-Hernandes avais-tu fait les autres? Ça vaut tu la peine?
+  - Author: Jul Mariz-Hernandes
+    CommentDate: 2023-06-08 14:09:38
+    CommentText: >
+      Guylaine Paul j'ai juste fait celle là et serieusement c'était trop cool! Mais étant la fan numéro 1 des Simspon je suis un peu biaisée hihi
+  - Author: Sylvain Mailhiot
+    CommentDate: 2023-06-08 14:09:40
+    CommentText: >
+      Si vous êtes ouvert à faire de la route un peu, j'ai bien aimé Niagara escapement.
+  - Author: Guylaine Paul
+    CommentDate: 2023-06-08 14:09:43
+    CommentText: >
+      Sylvain Mailhiot j’y ai pensé, mais j’hésite de faire aussi long de route de plus vu qu’on part samedi en journée et on doit revenir avant souper lundi
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-08 14:09:45
+    CommentText: >
+      Toutes les salles chez ReadySetGo adventures, Dragon's song de Secret city adventures au Casa Loma si vous êtes chanceux et tombez pas sur des randos, Il y a des nouvelles salles qui sont apparemment bien chez Omescape (Hong Kong after dark et Motel Betty)
+- PostId: 3523985241150682
+  Author: Sandy Morse-Emard
+  PostDate: 7 juin, 06:52
+  PostText: >
+    Hier soir on est allé faire Le crépuscule chez Vortex et j'ai quelque chose qui me trotte dans la tête depuis...
+
+    Est-ce que ça existe une salle thématique Zelda?
+  Comments:
+  - Author: Guylaine Paul
+    CommentDate: 2023-06-08 14:10:09
+    CommentText: >
+      Au Quebec non, mais ailleurs au Canada oui!
+  - Author: François Lajeunesse Viens
+    CommentDate: 2023-06-08 14:10:10
+    CommentText: >
+      Guylaine Paul
+
+      où?
+  - Author: Guylaine Paul
+    CommentDate: 2023-06-08 14:10:11
+    CommentText: >
+      François Lajeunesse Viens Calgary! La cie Escape Ops
+- PostId: 3522961621253044
+  Author: Paméla Gauthier-Deshaies
+  PostDate: 5 juin, 20:53
+  PostText: >
+    Salut 
+
+    Vous conseiller excalibur ou farwest à la clef de l’énigme? Ou alors l’équation à sauve qui peut St-Jean? Nous avons fait les autres salles. Je dois en sélectionner un d’eux pour le week-end prochain. Nous serons 4 joueurs. 
+
+    Merci
+  Comments:
+  - Author: Isabelle Perreault
+    CommentDate: 2023-06-08 14:17:40
+    CommentText: >
+      Nous avons préféré excalibur
+  - Author: Isabelle Perreault
+    CommentDate: 2023-06-08 14:17:42
+    CommentText: >
+      Mais farwest est chouette aussi. Farwest est de mémoire plus difficile.
+  - Author: Sylvain Mailhiot
+    CommentDate: 2023-06-08 14:17:44
+    CommentText: >
+      Je dirais excalibur
+  - Author: Oli Lacasse
+    CommentDate: 2023-06-08 14:17:46
+    CommentText: >
+      Equation
+  - Author: Aud Michao
+    CommentDate: 2023-06-08 14:17:49
+    CommentText: >
+      J’ai aimer les 2 mais far West est plus difficile.
+
+      Équation plus basic comme salle à mon avis .
+  - Author: Joe-bine Picard
+    CommentDate: 2023-06-08 14:17:51
+    CommentText: >
+      L’équation serait mon dernier choix. Entre les deux de la Clef de l’énigme, j’ai une préférence pour Farwest mais à 4, c’est peut-être mieux de tenter Excalibur. Ce sont deux bons choix.
+  - Author: Chloe Levesque Faw
+    CommentDate: 2023-06-08 14:17:53
+    CommentText: >
+      Excalibur et far west sont les deux des jeux pas mal dans le même style donc des jeux génération cadenas et les deux ne sont pas linéaires donc vous pouvez travailler sur plusieurs choses en même temps .
+
+      Si vous êtes des habitués et vous voulez un bon défis je vous recommande Far West il y a BEAUCOUP de choses à faire et un peu plus de choses électroniques que Excalibur .
+
+      Si vous êtes moins habitué Excalibur serais un meilleur choix pour vous
+  - Author: Paméla Gauthier-Deshaies
+    CommentDate: 2023-06-08 14:17:56
+    CommentText: >
+      Chloe Levesque Faw nous avons plus d’une quarantaine de jeux de faits, il serait donc plus intéressant farwest pour les énigmes?
+  - Author: Chloe Levesque Faw
+    CommentDate: 2023-06-08 14:17:58
+    CommentText: >
+      Paméla Gauthier-Deshaies oui c’est une salle très amusante je vous la conseil
+  - Author: Mélany Beauregard
+    CommentDate: 2023-06-08 14:18:00
+    CommentText: >
+      Paméla Gauthier-Deshaies je suis d’accord avec Chloe. Et l’équation est bien aussi mais je dirais du même niveau qu’excalibur. Far West a 5 on ne s’est pas ennuyé!
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-08 14:18:02
+    CommentText: >
+      J'ai mieux aimé le far west quand j'ai joué à cause de la densité d'énigme mais Excalibur pour l'ambiance de la salle.
+- PostId: 3522922601256946
+  Author: Yohan Msika
+  PostDate: 5 juin, 19:21
+  PostText: >
+    Bonjour à tous,
+
+    Quelqu'un pourrait me dire si Cübe (Montréal) est toujours ouvert?
+
+    Je voulais réserver une partie "La boucherie", j'ai essayé de les joindre plusieurs fois. En vain...
+
+    Merci à vous. 
+  Comments:
+  - Author: Alexandre Giroux
+    CommentDate: 2023-06-08 14:18:53
+    CommentText: >
+      Celui ontario et papineau? Si c’est lui non c’est fermé depuis au moin 1 an
+  - Author: Yohan Msika
+    CommentDate: 2023-06-08 14:18:54
+    CommentText: >
+      Alexandre Giroux Oui. C'était bien celui-ci.
+
+      Merci pour la confirmation.
+  - Author: Thierry Lacombe
+    CommentDate: 2023-06-08 14:18:56
+    CommentText: >
+      Alexandre Giroux weird selon leur page de réservation les jeux ont fermé en mai 2023 puis Tombeau et Ninja ont réouvert les weekend, tous ces gens font pas leur jeu?
+  - Author: Alexandre Giroux
+    CommentDate: 2023-06-08 14:18:57
+    CommentText: >
+      Thierry Lacombe pt c’est réouvert mais ça semble toujours fermé de l’extérieur. Ils ont pt déménager aussi je sais pas
+  - Author: Thierry Lacombe
+    CommentDate: 2023-06-08 14:18:58
+    CommentText: >
+      Alexandre Giroux
+  - Author: Patrick Pilon
+    CommentDate: 2023-06-08 14:18:59
+    CommentText: >
+      Je pense qu'ils ont juste des plages horaires à des journées spécifiques. Il y a des gens qui ont laissés des critiques sur Google maps il y peu de temps et les propriétaires répondent à celles ci
+  - Author: Yohan Msika
+    CommentDate: 2023-06-08 14:19:00
+    CommentText: >
+      Patrick Pilon Merci
+- PostId: 3522763884606151
+  Author: Josée Fréchette
+  PostDate: 5 juin, 13:19
+  PostText: >
+    Recherche partenaires pour une escape  room cette semaine (durant l’après-midi ou en soirée).  Je suggère L’Intrigue de Repentigny mais ouverte aux suggestions.
+  Comments:
+  - Author: Céline Simard Mua
+    CommentDate: 2023-06-08 14:19:32
+    CommentText: >
+      on est interessé dy aller avec toi
+  - Author: Céline Simard Mua
+    CommentDate: 2023-06-08 14:19:34
+    CommentText: >
+      Je tai écrit en pv
+  - Author: Josée Fréchette
+    CommentDate: 2023-06-08 14:19:36
+    CommentText: >
+      Équipe trouvée
+  - Author: Julie Bouchard
+    CommentDate: 2023-06-08 14:19:39
+    CommentText: >
+      J'ai beaucoup aimé cette salle!!!!
+- PostId: 3522733237942549
+  Author: Josh Sheffield
+  PostDate: 5 juin, 12:21
+  PostText: >
+    My wife and I need players for games that require more than 2! We're in(near) Montreal for the month, and will also hit Three Rivers, Quebec City, Ottawa, and Toronto. 
+
+    Games we absolutely want to play but need another body or two:
+
+    Enigma-Tic:
+
+    -Missing
+
+    Escaparium Laval:
+
+    -The Cathedral
+
+    -Rain Corp
+
+    -Voodoo Queen
+
+    -The Final Stop
+
+    Also maybe Victor at La Clef de L'Énigma(4+ competition room) and/or Ezkapaz though I hear mixed reviews on their rooms.
+  Comments:
+  - Author: Martine Filiatrault
+    CommentDate: 2023-06-08 14:19:56
+    CommentText: >
+      Dernier arrêt on l’a fait à deux
+  - Author: Josh Sheffield
+    CommentDate: 2023-06-08 14:19:59
+    CommentText: >
+      Martine Filiatrault the translation I think is a little off here, but if you're saying you played it with two people- excellent! They told us 3+ but I think they might let us do it with two on a weekday.
+  - Author: Martine Filiatrault
+    CommentDate: 2023-06-08 14:20:01
+    CommentText: >
+      Josh Sheffield hehe final stop!
+  - Author: Stephane Racine
+    CommentDate: 2023-06-08 14:20:03
+    CommentText: >
+      Martine Filiatrault the final stop is actually currently being revamped. It's becoming a 75 minutes room with completely new puzzles (95%). But for now it is closed.
+  - Author: Martine Filiatrault
+    CommentDate: 2023-06-08 14:20:05
+    CommentText: >
+      Stephane Racine thats good we had a few issues!
+  - Author: Sylvain Mailhiot
+    CommentDate: 2023-06-08 14:20:07
+    CommentText: >
+      Audrey-Ann Leroux Alexandra Lemoyne
+  - Author: Josh Sheffield
+    CommentDate: 2023-06-08 14:20:10
+    CommentText: >
+      Sylvain Mailhiot we're playing Wardrobe and The Ice Guardian with Audrey and Alex(assuming that's the same Alex) this week!
+  - Author: Josh Sheffield
+    CommentDate: 2023-06-08 14:20:12
+    CommentText: >
+      Sylvain Mailhiot we loved Chez Mimi by the way!
+  - Author: Sylvain Mailhiot
+    CommentDate: 2023-06-08 14:20:14
+    CommentText: >
+      Josh Sheffield thanks !! We've put lot of effort in it and we like puzzles, so we offert puzzles

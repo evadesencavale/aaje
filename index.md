@@ -46,16 +46,16 @@
 
       {% for post in site.data.aaje_posts %}
       <div class="post">
-        <h2>{{ post.postid }}</h2>
-        <p>{{ post.author }}</p>
-        <p>{{ post.date }}</p>
-        <p>{{ post.text }}</p>
+        <h2>{{ post.PostId }}</h2>
+        <p>{{ post.Author }}</p>
+        <p>{{ post.PostDate }}</p>
+        <p>{{ post.PostText }}</p>
         <div class="comments">
-          {% for comment in post.comments %}
+          {% for comment in post.Comments %}
             <div class="comment">
-              <p><strong>{{ comment.author }}</strong></p>
-              <p>{{ comment.text }}</p>
-              <p>{{ comment.date }}</p>
+              <p><strong>{{ comment.Author }}</strong></p>
+              <p>{{ comment.CommentDate }}</p>
+              <p>{{ comment.CommentText }}</p>
             </div>
           {% endfor %}
         </div>

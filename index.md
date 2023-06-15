@@ -29,22 +29,9 @@
       }
       
 .hidden {
-  height: 0;
-  overflow: hidden;
-  transition: height 0.3s ease-in-out;
+  display: none;
 }
 
-.comments-row {
-  height: auto;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease-in-out;
-}
-
-.comments-row.visible {
-  max-height: 1000px; /* Set a maximum height based on your content */
-  transition: max-height 0.3s ease-in-out;
-}
 
     </style>
 
@@ -58,31 +45,16 @@
     </script>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var commentsRows = document.getElementsByClassName('comments-row');
-    for (var i = 0; i < commentsRows.length; i++) {
-      commentsRows[i].classList.add('hidden');
-    }
-  });
-
   document.addEventListener('click', function(event) {
     if (event.target.classList.contains('toggle-comments-btn')) {
       var button = event.target;
       var row = button.closest('.row');
       var commentsRow = row.nextElementSibling;
-
       commentsRow.classList.toggle('hidden');
-      commentsRow.classList.toggle('visible');
-
-      // Handle the animation
-      if (commentsRow.classList.contains('visible')) {
-        commentsRow.style.maxHeight = commentsRow.scrollHeight + 'px';
-      } else {
-        commentsRow.style.maxHeight = '0';
-      }
     }
   });
 </script>
+
 
 
 

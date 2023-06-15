@@ -46,6 +46,7 @@
   var toggleButtons = document.getElementsByClassName('toggle-comments-btn');
   for (var i = 0; i < toggleButtons.length; i++) {
     toggleButtons[i].addEventListener('click', function() {
+      console.log("button clicked!");
       var row = this.closest('.row');
       var commentsRow = row.nextElementSibling;
       commentsRow.classList.toggle('hidden');

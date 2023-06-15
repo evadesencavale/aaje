@@ -43,14 +43,16 @@
     </script>
 
     <script>
-      var rows = document.getElementsByClassName('row');
-      for (var i = 0; i < rows.length; i++) {
-        rows[i].addEventListener('click', function() {
-          var commentsRow = this.nextElementSibling;
+      var toggleButtons = document.getElementsByClassName('toggle-comments-btn');
+      for (var i = 0; i < toggleButtons.length; i++) {
+        toggleButtons[i].addEventListener('click', function() {
+          var row = this.parentNode.parentNode;
+          var commentsRow = row.nextElementSibling;
           commentsRow.classList.toggle('hidden');
         });
       }
     </script>
+
     
   </head>
   <body>
@@ -73,7 +75,7 @@
                 <td>{{ post.Author }}</td>
                 <td>{{ post.PostDate }}</td>
                 <td>{{ post.PostText }}</td>
-                <td></td>
+                <td><button class="toggle-comments-btn">Toggle Comments</button></td>
               </tr>
               <tr class="comments-row hidden">
                 <td colspan="4">

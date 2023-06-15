@@ -43,15 +43,14 @@
     </script>
 
 <script>
-  var toggleButtons = document.getElementsByClassName('toggle-comments-btn');
-  for (var i = 0; i < toggleButtons.length; i++) {
-    toggleButtons[i].addEventListener('click', function() {
-      console.log("button clicked!");
-      var row = this.closest('.row');
+document.addEventListener('click', function(event) {
+    if (event.target.classList.contains('toggle-comments-btn')) {
+      var button = event.target;
+      var row = button.closest('.row');
       var commentsRow = row.nextElementSibling;
       commentsRow.classList.toggle('hidden');
-    });
-  }
+    }
+  });
 </script>
 
 

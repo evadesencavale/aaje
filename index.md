@@ -55,6 +55,25 @@
   });
 </script>
 
+<script>
+  var searchInput = document.getElementById('search-input');
+  var rows = document.getElementsByClassName('row');
+
+  searchInput.addEventListener('input', function() {
+    var searchTerm = this.value.trim().toLowerCase();
+
+    for (var i = 0; i < rows.length; i++) {
+      var row = rows[i];
+      var postText = row.querySelector('.post-text').textContent.toLowerCase();
+
+      if (postText.includes(searchTerm)) {
+        row.style.display = 'table-row';
+      } else {
+        row.style.display = 'none';
+      }
+    }
+  });
+</script>
 
 
 
@@ -64,7 +83,9 @@
   <body>
     <main>
       <h1>AAJE Posts</h1>
-
+      
+      <input type="text" id="search-input" placeholder="Search...">
+      
       <table class="myTable">
         <thead>
           <tr>

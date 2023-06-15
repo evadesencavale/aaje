@@ -34,24 +34,16 @@
   transition: height 0.3s ease-in-out;
 }
 
-.comments-row.visible {
+.comments-row {
   height: auto;
-  transition: height 0.3s ease-in-out;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
 }
 
-@keyframes rollDown {
-  0% {
-    transform: translateY(-100%);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-.roll-down-animation {
-  animation: rollDown 0.3s ease-in-out;
+.comments-row.visible {
+  max-height: 1000px; /* Set a maximum height based on your content */
+  transition: max-height 0.3s ease-in-out;
 }
 
     </style>
@@ -78,22 +70,20 @@
       var button = event.target;
       var row = button.closest('.row');
       var commentsRow = row.nextElementSibling;
+
       commentsRow.classList.toggle('hidden');
       commentsRow.classList.toggle('visible');
 
-      // Add the roll-down animation class when comments become visible
+      // Handle the animation
       if (commentsRow.classList.contains('visible')) {
-        commentsRow.style.height = 'auto'; // Set height to auto to ensure content is fully visible
-        commentsRow.classList.add('roll-down-animation');
+        commentsRow.style.maxHeight = commentsRow.scrollHeight + 'px';
       } else {
-        commentsRow.style.height = ''; // Reset height to allow transition to take effect
-        commentsRow.addEventListener('transitionend', function() {
-          commentsRow.classList.remove('roll-down-animation');
-        }, { once: true });
+        commentsRow.style.maxHeight = '0';
       }
     }
   });
 </script>
+
 
 
 

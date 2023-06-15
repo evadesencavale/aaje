@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Calgary</title>
+    <title>AAJE Posts</title>
     <style>
       .wrapper {
         max-width: 90%;
@@ -44,7 +44,7 @@
     <main>
       <h1>AAJE Posts</h1>
 
-      {% for post in site.aaje_posts %}
+      {% for post in site.data.aaje_posts %}
        <h2>{{ post.text }}</h2>
       {% endfor %}
         

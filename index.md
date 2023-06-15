@@ -29,7 +29,29 @@
       }
       
       .hidden {
-        display: none;
+        height: 0;
+        overflow: hidden;
+        transition: height 0.3s ease-in-out;
+      }
+
+      .comments-row.visible {
+        height: auto;
+        transition: height 0.3s ease-in-out;
+      }
+
+      @keyframes rollDown {
+        0% {
+          transform: translateY(-100%);
+          opacity: 0;
+        }
+        100% {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+
+      .roll-down-animation {
+        animation: rollDown 0.3s ease-in-out;
       }
     </style>
 
@@ -43,12 +65,22 @@
     </script>
 
 <script>
-document.addEventListener('click', function(event) {
+ document.addEventListener('click', function(event) {
     if (event.target.classList.contains('toggle-comments-btn')) {
       var button = event.target;
       var row = button.closest('.row');
       var commentsRow = row.nextElementSibling;
       commentsRow.classList.toggle('hidden');
+      commentsRow.classList.toggle('visible');
+
+      // Add the roll-down animation class when comments become visible
+      if (commentsRow.classList.contains('visible')) {
+        commentsRow.classList.add('roll-down-animation');
+      } else {
+        commentsRow.addEventListener('transitionend', function() {
+          commentsRow.classList.remove('roll-down-animation');
+        }, { once: true });
+      }
     }
   });
 </script>

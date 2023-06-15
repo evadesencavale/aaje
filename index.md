@@ -45,7 +45,21 @@
       <h1>AAJE Posts</h1>
 
       {% for post in site.data.aaje_posts %}
-       <h2>{{ post.text }}</h2>
+      <div class="post">
+        <h2>{{ post.postid }}</h2>
+        <p>{{ post.author }}</p>
+        <p>{{ post.date }}</p>
+        <p>{{ post.text }}</p>
+        <div class="comments">
+          {% for comment in post.comments %}
+            <div class="comment">
+              <p><strong>{{ comment.author }}</strong></p>
+              <p>{{ comment.text }}</p>
+              <p>{{ comment.date }}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
       {% endfor %}
         
     </main>

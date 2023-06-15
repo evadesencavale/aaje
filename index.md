@@ -34,7 +34,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3/dist/css/theme.bootstrap_4.min.css">
     <script>
     $(document).ready(function() {
-      console.log("test");
       $(".myTable").tablesorter();
     });
     </script>
@@ -44,23 +43,27 @@
     <main>
       <h1>AAJE Posts</h1>
 
-      {% for post in site.data.aaje_posts %}
-      <div class="post">
-        <h2>{{ post.PostId }}</h2>
-        <p>{{ post.Author }}</p>
-        <p>{{ post.PostDate }}</p>
-        <p>{{ post.PostText }}</p>
-        <div class="comments">
-          {% for comment in post.Comments %}
-            <div class="comment">
-              <p><strong>{{ comment.Author }}</strong></p>
-              <p>{{ comment.CommentDate }}</p>
-              <p>{{ comment.CommentText }}</p>
-            </div>
+      <table class="myTable">
+        <thead>
+          <tr>
+            <!-- <th class="header">Compagnie</th> -->
+            <th class="header">Author</th>
+            <th class="header">Date</th>
+            <th class="header">Text</th>
+            <th class="header">Tags</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for post in site.data.aaje_posts %}
+              <tr>
+                <td>{{ post.Author }}</td>
+                <td>{{ post.PostDate }}</td>
+                <td>{{ post.PostText }}</td>
+                <td></td>
+              </tr>
           {% endfor %}
-        </div>
-      </div>
-      {% endfor %}
+        </tbody>
+      </table>
         
     </main>
   </body>

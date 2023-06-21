@@ -27,3 +27,8 @@ th:hover {
 .hidden {
   display: none;
 }
+
+.tag-item {
+  border-radius: 20px;
+  background-color: #aaaa;
+}

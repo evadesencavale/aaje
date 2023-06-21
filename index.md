@@ -58,16 +58,20 @@
         <thead>
           <tr>
             <!-- <th class="header">Compagnie</th> -->
-            <th class="header">Author</th>
-            <th class="header">Date</th>
-            <th class="header">Text</th>
             <th class="header">Tags</th>
+            <th class="header">Date</th>
+            <th class="header">Publication</th>
+            <th class="header">Commentaires</th>
           </tr>
         </thead>
         <tbody>
           {% for post in site.data.aaje_posts %}
               <tr class="row">
-                <td>{{ post.Author }}</td>
+                <td>
+                  {% for tag in post.Tags %}
+                    <span>{{ tag }}</span>
+                  {% endfor %}
+                </td>
                 <td>{{ post.PostDate }}</td>
                 <td>{{ post.PostText }}</td>
                 <td><button class="toggle-comments-btn">

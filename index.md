@@ -102,7 +102,14 @@
                 <td>{{ post.Author }}</td>
                 <td>{{ post.PostDate }}</td>
                 <td>{{ post.PostText }}</td>
-                <td><button class="toggle-comments-btn">Toggle Comments</button></td>
+                <td><button class="toggle-comments-btn">
+                  {{ post.Comments.size }}
+                  {% if post.Comments.size > 1 %}
+                    commentaires
+                  {% else %}
+                    commentaire
+                  {% endif %}
+                </button></td>
               </tr>
               <tr class="comments-row hidden">
                 <td colspan="4">

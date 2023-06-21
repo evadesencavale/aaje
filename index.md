@@ -69,7 +69,7 @@
               <tr class="row">
                 <td>
                   {% for tag in post.Tags %}
-                    <span>{{ tag }}</span>
+                    <span class="tag-item">{{ tag }}</span>
                   {% endfor %}
                 </td>
                 <td>{{ post.PostDate }}</td>

@@ -32,8 +32,9 @@ th:hover {
   border-radius: 20px;
   background-color: #aaaa;
   white-space: nowrap;
-  display: block;
+  display: inline-block;
   margin-bottom: 5px;
+  padding: 0px 10px;
 }
 
 .tag-item:hover {

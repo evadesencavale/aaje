@@ -88,16 +88,18 @@
                   <table class="myTable">
                     <thead>
                       <tr>
-                        <th class="header">Comment Author</th>
-                        <th class="header">Comment Date</th>
+                        <th class="header">Tags</th>
                         <th class="header">Comment Text</th>
                       </tr>
                     </thead>
                     <tbody>
                       {% for comment in post.Comments %}
                       <tr>
-                        <td>{{ comment.Author }}</td>
-                        <td>{{ comment.CommentDate }}</td>
+                        <td>
+                          {% for tag in comment.Tags %}
+                            <span class="tag-item">{{ tag }}</span>
+                          {% endfor %}
+                        </td>
                         <td>{{ comment.CommentText }}</td>
                       </tr>
                       {% endfor %}

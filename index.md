@@ -7,9 +7,9 @@
     <script src="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3/dist/js/jquery.tablesorter.combined.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3/dist/css/theme.bootstrap_4.min.css">
     <script>
-    $(document).ready(function() {
+    /*$(document).ready(function() {
       $(".myTable").tablesorter();
-    });
+    });*/
     </script>
 
 <script>
